@@ -1,0 +1,23 @@
+{
+  "name": "image_repo",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "@rails/webpacker": "4.2.2",
+    "axios": "^0.21.1",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1",
+    "react-dropzone": "^11.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-waypoint": "^9.0.3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.1"
+  }
+}

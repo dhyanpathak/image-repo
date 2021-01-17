@@ -1,0 +1,5 @@
+@media (min-width: 576px) {
+    .owner-modal .modal-dialog {
+        max-width: 80vw !important;
+    }
+}

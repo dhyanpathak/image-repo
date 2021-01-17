@@ -1,0 +1,16 @@
+#basic-nav-dropdown {
+    color: white;
+}
+
+.navbar {
+    padding-left: 5vw !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    padding-left: 2vw !important;
+}
+#content {
+    margin-left: 5vw;
+    padding: 1rem;
+    margin-top: 7vh;
+}

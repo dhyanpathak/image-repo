@@ -1,0 +1,15 @@
+.card-deck {
+    margin-top: 1rem;
+}
+.card {
+    max-width: 18rem;
+    height: fit-content;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 17.9rem;
+}
+
+#submit {
+    margin-top: 1rem;
+}
